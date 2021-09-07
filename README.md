@@ -2,6 +2,8 @@
 
 A rich editor which base on [ProseMirror](https://github.com/ProseMirror/prosemirror)
 
+## Rich Editor
+
 <!-- ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
